@@ -3,6 +3,11 @@
 # 📌 Project Overview
 This project leverages Deep Learning, TensorFlow, and OpenCV to detect and predict forest fires using satellite imagery. The model enhances real-time fire detection, improving response time and mitigating fire damage.
 
+# Block Diagram
+
+![Deep-Learning-based-Forest-Fire-Response-System](images/Block_Diagram.png)
+
+
 # 🚀 Key Features
 Uses CNN-based deep learning model for fire detection.
 Processes real-time satellite imagery for early warning.
