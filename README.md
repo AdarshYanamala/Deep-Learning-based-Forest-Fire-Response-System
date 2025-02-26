@@ -20,3 +20,12 @@ Matplotlib & Seaborn (Visualization)
 # 📊 Data Sources
 Satellite Images (NASA Fire Information, MODIS, etc.)
 Synthetic Fire Datasets for model training
+
+# Output 
+
+Output Frame
+![Deep-Learning-based-Forest-Fire-Response-System](images/Output_Frame.png)
+
+output
+
+![Deep-Learning-based-Forest-Fire-Response-System](images/Output.png)
